@@ -1,5 +1,4 @@
 // TypeScript Version: 3.0
-/// <reference lib="dom" />
 
 import { Readable } from 'stream'
 
